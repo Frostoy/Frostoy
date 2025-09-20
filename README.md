@@ -40,7 +40,7 @@
 ###
 
 <div align="left">
-  <a href="faust471582693@gmail.com" target="_blank">
+  <a href="mailto:faust471582693@gmail.com?subject=Question&body=Hello%2C%20I%20have%20a%20question." target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
