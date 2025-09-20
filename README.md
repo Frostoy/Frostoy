@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.kym-cdn.com/photos/images/original/003/130/727/7da.gif"  />
+<img align="right" height="150" src="./7da.gif"  />
 
 ###
 
